@@ -1,0 +1,92 @@
+[
+    {
+        "topic" : "Trees",
+        "content" : [
+            "Introduction of Tree Data Structure",
+            "Basic Operation in Binary tree",
+            "Tree Search and Insertion/Deletion",
+            "Binary Tree Traversals pre-order",
+            "Binary Tree Traversals post-order",
+            "Binary Tree Traversals in-order",
+            "Tree Height",
+            {"Balanced Trees": [
+                "AVL Balanced Trees",
+                "Balancing Algorithm",
+                "The Ilufftnan Algorithm",
+                "Game tree",
+                "B-Tree"
+                ]
+            },
+            "Level and Depth"
+        ]
+    },
+        {
+        "topic" : "Introduction to data structure",
+        "content" : [
+            "Defination of data structure",
+            "Abstract Data Type",
+            "Importance of Data Structure"
+        ]
+    },
+    {
+        "topic" : "The Stack",
+        "content" : [
+            "Introduction to Stack",
+            "Stack as an ADT",
+            "POP and PUSH Operation",
+            {
+                "Stack Application" : [
+                    "Evaluation of Infix Expression",
+                    "Evaluation of Postfix Expression",
+                    "Evaluation of Prefix Expression",
+                    "Conversion of Prefix Expression",
+                    "Conversion of Postfix Expression",
+                    "Conversion of Infix Expression"
+                ]
+            }
+        ]
+    },
+    {
+        "topic" : "Queue",
+        "content" : [
+            "Introduction to Queue",
+            "Queue as an ADT",
+            "Primitive Operations in Queue",
+            "Linear and Circular Queue and Their Application",
+            "Enqueue and Dequeue",
+            "Priority Queue Data Structure"
+        ]
+    },
+    {
+        "topic" : "List",
+        "content" : [
+            "Introduction of List",
+            "Static and Dynamic List Structure",
+            "Array Implementation of Lists",
+            "Queues as a List"
+        ]
+    },
+    {
+        "topic" : "Linked List",
+        "content" : [
+            "Introduction to Linked List",
+            "Linked List as an ADT",
+            "Dynamic Implementation of Linked List",
+            "Insertion & Deletion of Node To and From a List",
+            "Insertion and Deletion After and Before Nodes",
+            "Linked Stacks and Queues",
+            "Doubly Linked Lists and Its Advantages"
+        ]
+    },
+    {
+        "topic" : "Recursion",
+        "content" : [
+            "Introduction to Recursion",
+            "Principle of Recursion",
+            "Recursion vs. Iteration",
+            {"Recursion Example": ["TOH", "Fibonacci Series"]},
+            "Applications of Recursion",
+            "Search Tree Recursion"
+        ]
+    }
+]
