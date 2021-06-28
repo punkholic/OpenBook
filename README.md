@@ -7,6 +7,10 @@ It search for links that is pre-mentioned in the script, from which it will know
 
 ## Screenshot:
 **Help:**
+
+
+
+
 ![Help](https://cdn.discordapp.com/attachments/857946031756017675/858904799366217749/Screenshot_from_2021-06-28_08-42-13.png)
 
 
